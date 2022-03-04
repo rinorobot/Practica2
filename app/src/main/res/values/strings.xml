@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Práctica2</string>
+
+    <string-array name="marcas_array">
+        <item>Elige marca aquí</item>
+        <item>Ford</item>
+        <item>Seat</item>
+        <item>Suzuki</item>
+        <item>Nissan</item>
+        <item>Kia</item>
+
+
+    </string-array>
+
+    <string name="aviso">No hay coches registrados</string>
+    <string name="nombre">Nombre</string>
+    <string name="anio">Año</string>
+    <string name="precio">Precio</string>
+    <string name="marca">Marca</string>
+    <string name="actualiza_los_datos">Actualiza los datos</string>
+    <string name="detalle_del_coche">Detalle del coche</string>
+    <string name="registro_exito">Registro eliminado exitosamente</string>
+    <string name="registro_realizado_correcto">Registro realizado correctamente</string>
+    <string name="error_actualizar">Error al actualizar el coche</string>
+    <string name="elige_marca">Por favor elige una marca</string>
+    <string name="nuevo_coche">Nuevo coche guardado correctamente</string>
+</resources>
